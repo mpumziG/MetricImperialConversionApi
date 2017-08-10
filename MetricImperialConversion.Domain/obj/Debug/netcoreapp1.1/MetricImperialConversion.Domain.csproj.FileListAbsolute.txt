@@ -1,0 +1,6 @@
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion.Domain\bin\Debug\netcoreapp1.1\MetricImperialConversion.Domain.deps.json
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion.Domain\bin\Debug\netcoreapp1.1\MetricImperialConversion.Domain.dll
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion.Domain\bin\Debug\netcoreapp1.1\MetricImperialConversion.Domain.pdb
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion.Domain\obj\Debug\netcoreapp1.1\MetricImperialConversion.Domain.AssemblyInfo.cs
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion.Domain\obj\Debug\netcoreapp1.1\MetricImperialConversion.Domain.dll
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion.Domain\obj\Debug\netcoreapp1.1\MetricImperialConversion.Domain.pdb

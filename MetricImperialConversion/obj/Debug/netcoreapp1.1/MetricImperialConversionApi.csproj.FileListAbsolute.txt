@@ -1,0 +1,11 @@
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\bin\Debug\netcoreapp1.1\MetricImperialConversionApi.deps.json
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\bin\Debug\netcoreapp1.1\MetricImperialConversionApi.runtimeconfig.json
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\bin\Debug\netcoreapp1.1\MetricImperialConversionApi.runtimeconfig.dev.json
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\bin\Debug\netcoreapp1.1\MetricImperialConversionApi.dll
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\bin\Debug\netcoreapp1.1\MetricImperialConversionApi.pdb
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\bin\Debug\netcoreapp1.1\MetricImperialConversion.Domain.dll
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\bin\Debug\netcoreapp1.1\MetricImperialConversion.Domain.pdb
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\obj\Debug\netcoreapp1.1\MetricImperialConversionApi.csprojResolveAssemblyReference.cache
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\obj\Debug\netcoreapp1.1\MetricImperialConversionApi.AssemblyInfo.cs
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\obj\Debug\netcoreapp1.1\MetricImperialConversionApi.dll
+C:\Users\chris\Documents\visual studio 2017\Projects\MetricImperialConversion\MetricImperialConversion\obj\Debug\netcoreapp1.1\MetricImperialConversionApi.pdb
